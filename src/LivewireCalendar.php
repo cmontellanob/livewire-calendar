@@ -1,6 +1,6 @@
 <?php
 
-namespace Asantibanez\LivewireCalendar;
+namespace Cmontellano\LivewireCalendar;
 
 use Carbon\Carbon;
 use Exception;
