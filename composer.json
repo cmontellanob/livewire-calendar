@@ -1,6 +1,6 @@
 {
-    "name": "asantibanez/livewire-calendar",
-    "description": "Laravel Livewire calendar component",
+    "name": "cmontellanob/livewire-calendar",
+    "description": "Laravel Livewire calendar component fork",
     "keywords": [
         "asantibanez",
         "livewire-calendar"
